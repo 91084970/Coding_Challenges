@@ -7,6 +7,6 @@ public class Ch002
     Scanner scan = new Scanner(System.in);
     System.out.print("Enter your first name:");
     String name = scan.next();
-    System.out.println("Hello, " + name);
+    System.out.println("Hello, " + name + "!");
   }
 }
